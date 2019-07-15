@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">5DAYSOFCODE</string>
+    <string name="name">TEHILLAH NGAYU</string>
+    <string name="track">Track: ANDROID</string>
+    <string name="country">Country: KENYA</string>
+    <string name="phone_number">Phone Number: 0701049923</string>
+    <string name="slack_name">Slack Username: TEHILLAH</string>
+    <string name="email_address">Email address: rirungayu@gmail.com</string>
+    <string name="about_button">ABOUT ALC</string>
+    <string name="profile_button">MY PROFILE</string>
+    <string name="alc_welcome">WELCOME TO ALC 4.0</string>
+    <string name="alc_logo">alc logo</string>
+
+</resources>
